@@ -1,0 +1,12 @@
+{
+  "project": "health-hive",
+  "team": "prathmesh-s",
+  "prodUrl": "https://shiny-rat-674.convex.cloud",
+  "functions": "convex/",
+  "authInfo": [
+    {
+      "domain": "https://arriving-halibut-62.clerk.accounts.dev/",
+      "applicationID": "convex"
+    }
+  ]
+}
