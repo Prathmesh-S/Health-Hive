@@ -13,7 +13,7 @@ Health Hive acts as an all-encompassing database for all of your healthcare need
 
 How we built it: Our team created an entire prototype of Health Hive on Figma. Then, using Convex and Clerk, we created a [demo website](https://3400-129-170-194-144.ngrok-free.app/). Clerk would normally make a local website, but using Ngrok, we were able to make it public. From this demo website, we redirect the user to our [modern website](https://rust-whale-ams4.squarespace.com/), filled with information and resources for the user. This website uses a custom DropBox code injection to accept medical files from the user that can be saved to the cloud for safe-keeping. In addition, our team integrated a custom Facebook Messenger Chatbox that can communicate with the User and answer their questions. 
 
--
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Inspiration:
 Being able to understand your health report shouldn’t be as difficult as it is. Being able to properly communicate and identify the different elements of one’s vitals whether it be for themself, a healthcare worker, or a loved one is essential. This also allows nurses to track each patient at the tips of their fingers, being able to see what vitals each patient has and or if they need any assistance.
