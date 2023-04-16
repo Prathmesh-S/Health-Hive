@@ -6,7 +6,7 @@ FIGMA Prototype Application:
 <br>Demo Website: https://3400-129-170-194-144.ngrok-free.app/
 
 **About Us: 
-Health Hive acts as an all-encompassing database for all of your healthcare needs. This software monitors a patient's vitals, making the information easy to navigate and understand, whether it be for their own knowledge, a family member, or a healthcare professional. By allowing users to store medical records, including prescriptions, results, and vaccination history, as well as displaying live updates to a patient’s status and having the ability to document important health history information, Health Hive is proven to be an essential tool for each user and their wellness!**
+Health Hive acts as an all-encompassing database for all of your healthcare needs. This software monitors a patient's vitals, making the information easy to navigate and understand, whether it be for their own knowledge, a family member, or a healthcare professional. By allowing users to store medical records, including prescriptions, results, and vaccination history, we provide a variety of health resources/records to the user. This makes Health Hive an essential tool for each user and their wellness!**
 
 **Technologies/Programs used include: GitHub, Figma, Convex, Ngrok, Clerk, Squarespace, Facebook Messenger App, Dropbox, and VS Code Space Liveshare.**
 **See the tutorial at [this YouTube link](https://docs.convex.dev) for instructions.**
