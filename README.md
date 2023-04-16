@@ -3,13 +3,14 @@
 
 FIGMA Prototype Application: 
 <br>Modern Website: https://rust-whale-ams4.squarespace.com/
+ Password: Health
 <br>Demo Website: https://3400-129-170-194-144.ngrok-free.app/
 
 **About Us: 
 Health Hive acts as an all-encompassing database for all of your healthcare needs. This software monitors a patient's vitals, making the information easy to navigate and understand, whether it be for their own knowledge, a family member, or a healthcare professional. By allowing users to store medical records, including prescriptions, results, and vaccination history, we provide a variety of health resources/records to the user. This makes Health Hive an essential tool for each user and their wellness!**
 
 **Technologies/Programs used include: GitHub, Figma, Convex, Ngrok, Clerk, Squarespace, Facebook Messenger App, Dropbox, and VS Code Space Liveshare.**
-**See the tutorial at [this YouTube link](https://docs.convex.dev) for instructions.**
+**See the tutorial at [this YouTube link](https://discord.com/channels/@me/1096872920304849066/1097191632819990590) for instructions.**
 
 How we built it: Our team created an entire prototype of Health Hive on Figma. Then, using Convex and Clerk, we created a [demo website](https://3400-129-170-194-144.ngrok-free.app/). Clerk would normally make a local website, but using Ngrok, we were able to make it public. From this demo website, we redirect the user to our [modern website](https://rust-whale-ams4.squarespace.com/), filled with information and resources for the user. This website uses a custom DropBox code injection to accept medical files from the user that can be saved to the cloud for safe-keeping. In addition, our team integrated a custom Facebook Messenger Chatbox that can communicate with the User and answer their questions. 
 
