@@ -1,5 +1,6 @@
 # Welcome to Health Hive
 ![Alt text](https://github.com/Prathmesh-S/Health-Hive/blob/main/Screen%20Shot%202023-04-16%20at%2010.38.04%20AM.png)
+![Alt text](https://github.com/Prathmesh-S/Health-Hive/blob/main/healthhive3.png)
 
 FIGMA Prototype Application: 
 <br>Modern Website: https://rust-whale-ams4.squarespace.com/
