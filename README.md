@@ -2,7 +2,7 @@
 ![Alt text](https://github.com/Prathmesh-S/Health-Hive/blob/main/Screen%20Shot%202023-04-16%20at%2010.38.04%20AM.png)
 
 FIGMA Prototype Application: 
-//These websites are currently being updated, and thus will not be accessible. 
+<br>//These websites are currently being updated, and thus will not be accessible. 
 <br>Modern Website: https://rust-whale-ams4.squarespace.com/
 <br>Password: Health
 <br>Demo Website: https://3400-129-170-194-144.ngrok-free.app/
@@ -13,7 +13,7 @@ Health Hive acts as an all-encompassing database for all of your healthcare need
 **Technologies/Programs used include: GitHub, Figma, Convex, Ngrok, Clerk, Squarespace, Facebook Messenger App, Dropbox, and VS Code Liveshare.**
 **See the tutorial at [this YouTube link](https://discord.com/channels/@me/1096872920304849066/1097191632819990590) for instructions.**
 
-How we built it: Our team created an entire prototype of Health Hive on Figma. Then, using Convex and Clerk, we created a [demo website](https://3400-129-170-194-144.ngrok-free.app/). Clerk would normally make a local website, but using Ngrok, we were able to make it public. From this demo website, we redirect the user to our [modern website](https://rust-whale-ams4.squarespace.com/), filled with information and resources for the user. This website uses a custom DropBox code injection to accept medical files from the user that can be saved to the cloud for safe-keeping. In addition, our team integrated a custom Facebook Messenger Chatbox that can communicate with the User and answer their questions. 
+How we built it: Our team created an entire prototype of Health Hive on Figma. Then, using Convex and Clerk, we created a demo website. Clerk would normally make a local website, but using Ngrok, we were able to make it public. From this demo website, we redirect the user to our modern website, filled with information and resources for the user. This website uses a custom DropBox code injection to accept medical files from the user that can be saved to the cloud for safe-keeping. In addition, our team integrated a custom Facebook Messenger Chatbox that can communicate with the User and answer their questions. 
 
 Obstacles: For our website, we had to code-inject a Dropbox extension to accept files from a user. In addition, to make our website accessible and easy to use, we code-injected a Facebook Messenger chatbot that can communicate with the user live!
 
